@@ -453,7 +453,7 @@ I18N["zh-CN"]["title"] = {
     Budgets: "預算",
     "Code Security": "程式碼安全性",
     "New Fine-grained Personal Access Token": "新建精細化個人訪問令牌",
-    "Coding agent": "程式設計智慧體",
+    "Coding agent": "程式設計AI",
     "Get Started With GitHub Discussions": "開始使用 GitHub 討論",
     "SSH and GPG keys": "SSH 和 GPG 金鑰",
     "MCP Registry": "MCP 互聯",
@@ -802,7 +802,7 @@ I18N["zh-CN"]["public"] = {
     "New repository": "新建倉庫",
     "Import repository": "匯入倉庫",
     "New spark": "新建 spark",
-    "New agent task": "新建智慧體任務",
+    "New agent task": "新建AI任務",
     "New codespace": "新建程式碼空間",
     "New gist": "新建程式碼片段",
     "New organization": "新建組織",
@@ -817,10 +817,10 @@ I18N["zh-CN"]["public"] = {
     "Create a new issue from scratch": "從頭開始建立新議題",
 
     // 右上角 Copilot 下拉選單
-    Agents: "智慧體",
+    Agents: "AI",
     "Chat with Copilot": "與 Copilot 聊天",
     "Learn more about Copilot coding agent":
-      "瞭解有關 Copilot 程式設計智慧體的更多資訊",
+      "瞭解有關 Copilot 程式設計AI的更多資訊",
     "Start a new task with Copilot": "使用 Copilot 啟動新任務",
     "Describe a coding task to work on": "描述要完成的程式設計任務",
     "Open Copilot…": "開啟 Copilot…",
@@ -835,16 +835,16 @@ I18N["zh-CN"]["public"] = {
     "Select a branch": "選擇分支",
     "Find a branch...": "查詢分支…",
 
-    "Create a custom agent": "建立自定義智慧體",
+    "Create a custom agent": "建立自定義AI",
 
     "Navigate to Copilot": "導航到 Copilot",
 
-    "Open agents panel": "開啟智慧體面板",
-    "Start a task with Copilot coding agent": "使用 Copilot 程式設計智慧體開始任務",
+    "Open agents panel": "開啟AI面板",
+    "Start a task with Copilot coding agent": "使用 Copilot 程式設計AI開始任務",
     "Describe your task in natural language. Copilot will work in the background and open a pull request for your review.":
       "請用自然語言描述您的任務。Copilot 會在後臺工作，並建立一個拉取請求供您稽核。",
 
-    "Agent tasks": "智慧體任務",
+    "Agent tasks": "AI任務",
     "Switch branches": "切換分支",
     "Filter branches": "查詢分支",
     default: "預設",
@@ -896,7 +896,7 @@ I18N["zh-CN"]["public"] = {
       "組織管理員可以在 GitHub.com 的所有 Copilot 聊天中應用自定義指令。",
     "New Dashboard Experience": "新儀表板體驗",
     "The updated home dashboard introduces enhanced agent workflows, making it easier to create and manage agent sessions, issues, and pull requests directly from your personalized dashboard. Once enabled, please refresh to see the changes.":
-      "更新後的主頁儀表板引入了增強的智慧體工作流，使您可以更輕鬆地直接從個性化儀表板建立和管理智慧體會話、議題和拉取請求。啟用後，請重新整理以檢視更改。",
+      "更新後的主頁儀表板引入了增強的AI工作流，使您可以更輕鬆地直接從個性化儀表板建立和管理AI會話、議題和拉取請求。啟用後，請重新整理以檢視更改。",
     "Rich Jupyter Notebook Diffs": "Jupyter Notebook 的豐富差異檢視",
     "Enables rich diffs of Jupyter Notebooks in pull requests":
       "在拉取請求中啟用 Jupyter Notebook 的豐富差異檢視",
@@ -1663,7 +1663,7 @@ I18N["zh-CN"]["public"] = {
     // 聊天內容 - 建立拉取請求
     "Are you sure?": "您確定嗎？",
     'Are you sure you wish to execute the "Create pull request with Copilot coding agent" tool?':
-      "您確定要執行“使用 Copilot 程式設計智慧體建立拉取請求”工具嗎？",
+      "您確定要執行“使用 Copilot 程式設計AI建立拉取請求”工具嗎？",
     Allow: "允許",
     Dismiss: "拒絕",
 
@@ -1714,9 +1714,9 @@ I18N["zh-CN"]["public"] = {
     "Ask Copilot anything on the right to start your first chat.":
       "在右側詢問 Copilot 任何問題，開始您的第一次聊天。",
 
-    "Agent sessions": "智慧體任務",
-    "New agent session": "新智慧體任務",
-    "No agents running": "沒有智慧體任務執行",
+    "Agent sessions": "AI任務",
+    "New agent session": "新AI任務",
+    "No agents running": "沒有AI任務執行",
     "You can now ask Copilot to work on a task for you in the background, creating a pull request which you can review.":
       "您現在可以請求 Copilot 在後臺處理任務，建立一個拉取請求供您審查。",
 
@@ -1726,12 +1726,12 @@ I18N["zh-CN"]["public"] = {
     "Explore GitHub’s latest tools shaping agentic software and developer choice.":
       "探索 GitHub 最新的工具，塑造智慧化的軟體和開發者選擇。",
 
-    "Select a custom agent": "選擇自定義智慧體",
-    "Create an agent": "新建智慧體",
+    "Select a custom agent": "選擇自定義AI",
+    "Create an agent": "新建AI",
 
     "Start task": "開始任務",
 
-    "Recent agent sessions": "最近智慧體任務",
+    "Recent agent sessions": "最近AI任務",
     "Recent sessions": "最近任務",
     "No sessions found. Create one by sending a prompt above.":
       "沒有找到任務。透過傳送提示來建立一個。",
@@ -1821,9 +1821,9 @@ I18N["zh-CN"]["public"] = {
       "選擇 $1 中的檔案（夾）和符號進行聊天。引用越少，回覆越準確。",
     ],
     [/Delete conversation: \"(.+)\"/, "刪除對話：“$1”"],
-    // 智慧體
+    // AI
     [/Branch: (.+)/, "分支：$1"],
-    [/Agent: (.+)/, "智慧體：$1"],
+    [/Agent: (.+)/, "AI：$1"],
     /**
      * 匹配時間格式
      *
@@ -2234,12 +2234,12 @@ I18N["zh-CN"]["page-dashboard"] = {
     "Fast and cost-efficient": "快速、經濟高效",
     "Versatile and highly intelligent": "多功能、高智慧",
     "Most powerful at complex tasks": "在複雜任務中最強大",
-    "Agent sessions": "智慧體任務",
+    "Agent sessions": "AI任務",
     "No sessions found. Try a different filter, or":
       "沒有找到會話。嘗試不同的過濾器，或",
     "start a session": "開始任務",
-    "Agent sessions options": "智慧體任務選項",
-    "Agent sessions to include": "智慧體任務包含",
+    "Agent sessions options": "AI任務選項",
+    "Agent sessions to include": "AI任務包含",
     "View all": "檢視全部",
     "Number of results": "結果數量",
     "Pull request options": "拉取請求選項",
@@ -2598,7 +2598,7 @@ I18N["zh-CN"]["page-dashboard"] = {
     "In progress": "進行中",
 
     "Unable to load agent tasks, try again later.":
-      "無法載入智慧體任務，請稍後重試。",
+      "無法載入AI任務，請稍後重試。",
     "Unable to load pull requests, try again later.":
       "無法載入拉取請求，請稍後重試。",
 
@@ -4062,7 +4062,7 @@ I18N["zh-CN"]["settings-menu"] = {
     Packages: "軟體包",
     Copilot: "GitHub Copilot",
     Features: "功能",
-    "Coding agent": "程式設計智慧體",
+    "Coding agent": "程式設計AI",
     Pages: "GitHub Pages",
     "Saved replies": "快捷回覆",
 
@@ -4130,7 +4130,7 @@ I18N["zh-CN"]["orgs-settings-menu"] = {
     "Issue types": "議題型別",
     Copilot: "GitHub Copilot",
     Access: "訪問",
-    "Coding agent": "程式設計智慧體",
+    "Coding agent": "程式設計AI",
     Actions: "操作",
     Runners: "執行器",
     "Runner groups": "執行器組",
@@ -5101,7 +5101,7 @@ I18N["zh-CN"]["settings/billing"] = {
     "Included requests": "包含請求",
     "Billed requests": "計費請求",
     "Code Review model": "程式碼審查模型",
-    "Coding Agent model": "程式設計智慧體模型",
+    "Coding Agent model": "程式設計AI模型",
 
     // 獲取使用情況報告
     "Premium requests usage report": "高階請求使用報告",
@@ -7411,14 +7411,14 @@ I18N["zh-CN"]["settings/copilot"] = {
       "Copilot 將自動審查您的拉取請求。",
     "Learn more about configuring automatic code reviews.":
       "瞭解如何配置自動程式碼審查。",
-    "Copilot coding agent": "Copilot 程式設計智慧體",
+    "Copilot coding agent": "Copilot 程式設計AI",
     "With Copilot coding agent, you can delegate tasks to Copilot, freeing you to focus on the creative, complex, and high-impact work that matters most. Simply assign an issue to Copilot, wait for the agent to request your review, then leave feedback on the pull request to iterate.":
-      "使用 Copilot 程式設計智慧體，您可以將任務委託給 Copilot，從而讓您專注於最具創造性的、複雜且影響深遠的工作。只需將問題分配給 Copilot，等待智慧體請求您審查，然後在拉取請求中留下反饋以進行迭代。",
+      "使用 Copilot 程式設計AI，您可以將任務委託給 Copilot，從而讓您專注於最具創造性的、複雜且影響深遠的工作。只需將問題分配給 Copilot，等待AI請求您審查，然後在拉取請求中留下反饋以進行迭代。",
     "Delegate tasks to Copilot coding agent in repositories where it is enabled":
-      "將任務委託給已啟用 Copilot 程式設計智慧體的倉庫",
+      "將任務委託給已啟用 Copilot 程式設計AI的倉庫",
     "MCP servers in Copilot": "Copilot 中的 MCP 伺服器",
     "Connect MCP servers to Copilot in all Copilot editors and Coding Agent.":
-      "在所有 Copilot 編輯器和程式設計智慧體中連線 MCP 伺服器。",
+      "在所有 Copilot 編輯器和程式設計AI中連線 MCP 伺服器。",
     // Grok
     "If enabled, you can access and send data to xAI Grok Code Fast 1.":
       "若啟用，您可以訪問 xAI Grok Code Fast 1 併發送資料。",
@@ -7433,7 +7433,7 @@ I18N["zh-CN"]["settings/copilot"] = {
     ". When disabled, you cannot view or create any Copilot Spaces.":
       "。當停用時，您無法檢視或建立任何 Copilot 空間。",
     "Choose which repositories Copilot coding agent should be enabled in. Copilot coding agent will only be available where it is enabled for the repository and in the Copilot license policies.":
-      "選擇要在其中啟用 Copilot 程式設計智慧體的倉庫。Copilot 程式設計智慧體僅在為該倉庫啟用並符合 Copilot 許可證政策的情況下可用。",
+      "選擇要在其中啟用 Copilot 程式設計AI的倉庫。Copilot 程式設計AI僅在為該倉庫啟用並符合 Copilot 許可證政策的情況下可用。",
     "Copilot Spaces Individual Access": "Copilot Spaces 個人訪問許可權",
     "If enabled, you can create individually owned":
       "若啟用，您可以建立個人擁有的",
@@ -7447,22 +7447,22 @@ I18N["zh-CN"]["settings/copilot"] = {
     ". When disabled, you cannot share individual spaces.":
       "。當停用時，您無法分享個人空間。",
 
-    // 程式設計智慧體(預覽 https://github.com/settings/copilot/coding_agent
+    // 程式設計AI(預覽 https://github.com/settings/copilot/coding_agent
     // 頂部提示
     "You can enable Copilot coding agent for other users, but you won't be able to assign tasks to Copilot because you don't have a Copilot Pro+ or Copilot Enterprise license.":
-      "您可以為其他使用者啟用 Copilot 程式設計智慧體，但由於您沒有 Copilot Pro+ 或 Copilot 企業版許可證，因此無法向 Copilot 分配任務。",
+      "您可以為其他使用者啟用 Copilot 程式設計AI，但由於您沒有 Copilot Pro+ 或 Copilot 企業版許可證，因此無法向 Copilot 分配任務。",
     "You can enable Copilot coding agent for other users, but you won't be able to assign tasks to Copilot because the Copilot coding agent policy has been disabled by an administrator.":
-      "您可以為其他使用者啟用 Copilot 程式設計智慧體，但由於管理員已停用 Copilot 程式設計智慧體策略，您將無法向 Copilot 分配任務。",
+      "您可以為其他使用者啟用 Copilot 程式設計AI，但由於管理員已停用 Copilot 程式設計AI策略，您將無法向 Copilot 分配任務。",
     "You can enable Copilot coding agent for other users, but you won't be able to assign tasks to Copilot because you don't have a Copilot Pro, Copilot Pro+, Copilot Business or Copilot Enterprise license.":
       "雖然您可以為其他使用者啟用 Copilot 編碼代理，但由於您未持有 Copilot Pro、Copilot Pro+、Copilot Business、Copilot Enterprise 許可證，因此無法向 Copilot 分配任務。",
 
     "With Coding agent, you can delegate tasks to Copilot, freeing you to focus on the creative, complex, and high-impact work that matters most. Simply assign an issue to Copilot, wait for the agent to request your review, then leave feedback on the pull request to iterate.":
-      "使用程式設計智慧體，您可以將任務委派給 Copilot，從而讓您專注於最具創造性的、複雜且影響深遠的工作。只需將問題分配給 Copilot，等待智慧體請求您審查，然後在拉取請求中留下反饋以進行迭代。",
+      "使用程式設計AI，您可以將任務委派給 Copilot，從而讓您專注於最具創造性的、複雜且影響深遠的工作。只需將問題分配給 Copilot，等待AI請求您審查，然後在拉取請求中留下反饋以進行迭代。",
     "Learn more in the docs.": "詳情",
 
     "Repository access": "倉庫訪問",
     "Choose which repositories Coding agent should be enabled in. Coding agent will only be available where it is enabled for the repository and in the Copilot license policies.":
-      "選擇要啟用程式設計智慧體的倉庫。程式設計智慧體僅在為該倉庫啟用並符合 Copilot 許可證政策的情況下可用。",
+      "選擇要啟用程式設計AI的倉庫。程式設計AI僅在為該倉庫啟用並符合 Copilot 許可證政策的情況下可用。",
 
     "No repositories": "無倉庫",
     // 所有
@@ -7487,7 +7487,7 @@ I18N["zh-CN"]["settings/copilot"] = {
     Select: "選擇",
 
     "Use of Copilot coding agent is subject to the":
-      "使用 Copilot 程式設計智慧體需遵守",
+      "使用 Copilot 程式設計AI需遵守",
     "pre-release terms": "預發行條款",
   },
   regexp: [
@@ -7509,7 +7509,7 @@ I18N["zh-CN"]["settings/copilot"] = {
   ],
   title: {
     static: {
-      "Copilot coding agent": "Copilot 程式設計智慧體",
+      "Copilot coding agent": "Copilot 程式設計AI",
     },
   },
 };
@@ -8903,7 +8903,7 @@ I18N["zh-CN"]["settings/apps"] = {
     "Current users will be prompted to accept these changes and enable the new permissions on their installation.":
       "系統將提示當前使用者接受這些更改，並在其安裝中啟用新許可權。",
 
-    // 某個 GitHub 應用 - 智慧體 https://github.com/settings/apps/<app-name>/agent
+    // 某個 GitHub 應用 - AI https://github.com/settings/apps/<app-name>/agent
     "A Copilot configuration allows your GitHub App to integrate with Copilot. Learn more about building GitHub Copilot Extensions in the":
       "Copilot 配置允許您的 GitHub 應用與 Copilot 整合。瞭解更多關於構建 GitHub Copilot 擴充套件的資訊，請訪問",
     documentation: "文件",
@@ -10400,7 +10400,7 @@ I18N["zh-CN"]["page-new-repo"] = {
       "用 Copilot 快速啟動您的專案（可選）",
     "Tell Copilot what you want to build in this repository. After creation, Copilot will open a pull request with generated files - such as a basic app, starter code, or other features you describe - then request your review when it's ready.":
       "告訴 Copilot 您想在此倉庫中構建什麼。在建立完成後，Copilot 會開啟一個包含生成檔案的拉取請求（例如基礎應用、起始程式碼或您描述的其他功能），然後在準備好後請求您進行稽核。",
-    "About Copilot coding agent": "關於 Copilot 程式設計智慧體",
+    "About Copilot coding agent": "關於 Copilot 程式設計AI",
 
     Prompt: "提示詞",
     "Describe what you want Copilot to build": "描述您想讓 Copilot 做什麼",
@@ -12167,10 +12167,10 @@ I18N["zh-CN"]["repository/issues"] = {
     // 右側欄 補充
     Metadata: "後設資料", // 小屏模式
     // "Development": "進展",
-    "Code with agent mode": "智慧體模式程式設計",
+    "Code with agent mode": "AI模式程式設計",
     "Select code repository": "選擇倉庫",
     "Start a codespace with Copilot agent mode for this issue in another repository.":
-      "為另一個倉庫中的此議題啟動使用 Copilot 智慧體模式的程式碼空間。",
+      "為另一個倉庫中的此議題啟動使用 Copilot AI模式的程式碼空間。",
     "No branches or pull requests": "沒有分支或拉取請求",
     "Shows branches and pull requests linked to this issue.":
       "顯示與該議題相關的分支和拉取請求。",
@@ -13732,7 +13732,7 @@ I18N["zh-CN"]["repository/pull"] = {
     "Back to pull request #": "返回到拉取請求 #",
 
     "Copilot coding agent now uses fewer premium requests!":
-      "Copilot 程式設計智慧體現在使用更少的高階請求！",
+      "Copilot 程式設計AI現在使用更少的高階請求！",
     "From now on, each session uses just one premium request.":
       "從現在起，每個會話只會使用一次高階請求。",
 
@@ -19973,7 +19973,7 @@ I18N["zh-CN"]["repository-settings-menu"] = {
     Webhooks: "Web 鉤子",
     // Copilot
     "Code review": "程式碼審查",
-    "Coding agent": "程式設計智慧體",
+    "Coding agent": "程式設計AI",
     Environments: "環境",
     Pages: "GitHub Pages",
     "Custom properties": "自定義屬性", // 組織倉庫
@@ -22270,26 +22270,26 @@ I18N["zh-CN"]["repository/settings/copilot/coding_agent"] = {
     ...I18N["zh-CN"]["repository-settings-menu"]["static"],
     ...I18N["zh-CN"]["orgs-settings-menu"]["static"],
 
-    "Copilot coding agent": "Copilot 程式設計智慧體",
+    "Copilot coding agent": "Copilot 程式設計AI",
 
     "You can configure Copilot coding agent for other users with access to this repository, but you won't be able to assign tasks to Copilot because you don't have a Copilot Pro+ or Copilot Enterprise license.":
-      "您可以為其他具有此倉庫訪問許可權的使用者配置 Copilot 程式設計智慧體，但由於您沒有 Copilot Pro+ 或 Copilot 企業版許可證，因此無法向 Copilot 分配任務。",
+      "您可以為其他具有此倉庫訪問許可權的使用者配置 Copilot 程式設計AI，但由於您沒有 Copilot Pro+ 或 Copilot 企業版許可證，因此無法向 Copilot 分配任務。",
 
     "With Copilot coding agent, developers can delegate tasks to Copilot, freeing them to focus on the creative, complex, and high-impact work that matters most. Simply assign an issue to Copilot, wait for the agent to request review, then leave feedback on the pull request to iterate. To learn more, see the":
-      "使用 Copilot 程式設計智慧體，開發者可以將任務委託給 Copilot，從而專注於更具創造性、複雜性和高影響力的重要工作。只需將議題分配給 Copilot，等待助手發起評審請求，然後在拉取請求上留下反饋進行迭代。更多資訊請參閱",
+      "使用 Copilot 程式設計AI，開發者可以將任務委託給 Copilot，從而專注於更具創造性、複雜性和高影響力的重要工作。只需將議題分配給 Copilot，等待助手發起評審請求，然後在拉取請求上留下反饋進行迭代。更多資訊請參閱",
     "With Copilot coding agent, developers can delegate tasks to Copilot, freeing them to focus on the creative, complex, and high-impact work that matters most. Assign an issue to Copilot, wait for the agent to request review, then leave feedback on the pull request to iterate.":
-      "藉助 Copilot 程式設計智慧體，開發者可以將任務委託給 Copilot，從而有更多時間專注於最重要的創造性、複雜和高影響力的工作。只需將議題分配給 Copilot，等待請求程式碼審查，然後在拉取請求上留下反饋，進行迭代即可。",
+      "藉助 Copilot 程式設計AI，開發者可以將任務委託給 Copilot，從而有更多時間專注於最重要的創造性、複雜和高影響力的工作。只需將議題分配給 Copilot，等待請求程式碼審查，然後在拉取請求上留下反饋，進行迭代即可。",
     "Learn more about Copilot coding agent": "瞭解更多",
 
     "Internet access": "訪問網際網路",
     "Ensure that the agent only accesses approved network resources during code generation and execution.":
-      "確保智慧體在程式碼生成和執行過程中只訪問已批准的網路資源。",
+      "確保AI在程式碼生成和執行過程中只訪問已批准的網路資源。",
     "Learn more about customizing network access": "瞭解更多",
 
     "Enable firewall": "啟用防火牆",
     Recommended: "推薦",
     "Limit Copilot coding agent’s Internet access to only allow access to allowlisted locations":
-      "將 Copilot 程式設計智慧體的網際網路訪問許可權限制為僅允許訪問白名單中的位置。",
+      "將 Copilot 程式設計AI的網際網路訪問許可權限制為僅允許訪問白名單中的位置。",
     "Recommended allowlist": "推薦白名單",
     "Allow access to locations frequently used to install tools, packages, and dependencies":
       "允許訪問常用於安裝工具、軟體包和依賴項的位置",
@@ -22299,7 +22299,7 @@ I18N["zh-CN"]["repository/settings/copilot/coding_agent"] = {
 
     // settings/copilot/coding_agent/allowlist 自定義白名單
     "Add items to the allowlist to enable Copilot coding agent to access specific domains, IP addresses, or URLs.":
-      "將專案新增到允許列表，以便 Copilot 智慧體能夠訪問特定的域名、IP 地址或 URL。",
+      "將專案新增到允許列表，以便 Copilot AI能夠訪問特定的域名、IP 地址或 URL。",
     "See the GitHub Docs for syntax and examples.":
       "請參閱 GitHub 文件以獲取語法和示例。",
 
@@ -22321,9 +22321,9 @@ I18N["zh-CN"]["repository/settings/copilot/coding_agent"] = {
     "The MCP is an open standard that defines how applications share context with large language models (LLMs). MCP provides a standardized way to connect AI models to different data sources and tools, enabling them to work together more effectively.":
       "MCP 是一個開放標準，定義了應用程式如何與大型語言模型（LLM）共享上下文。MCP 提供了一種標準化的方法，將 AI 模型與不同的資料來源和工具連線起來，使它們能夠更高效地協同工作。",
     "You can use MCP to extend the capabilities of Copilot coding agent by connecting it to other tools and services. For information on how to write your JSON MCP configuration, see the":
-      "您可以使用 MCP 透過將其連線到其他工具和服務，來擴充套件 Copilot 程式設計智慧體的功能。有關如何編寫您的 JSON MCP 配置的詳細資訊，請參見",
+      "您可以使用 MCP 透過將其連線到其他工具和服務，來擴充套件 Copilot 程式設計AI的功能。有關如何編寫您的 JSON MCP 配置的詳細資訊，請參見",
     "You can use MCP to extend the capabilities of Copilot coding agent by connecting it to other tools and services.":
-      "您可以使用 MCP 透過將其連線到其他工具和服務，來擴充套件 Copilot 程式設計智慧體的功能。",
+      "您可以使用 MCP 透過將其連線到其他工具和服務，來擴充套件 Copilot 程式設計AI的功能。",
     "Learn how to write your JSON MCP configuration":
       "瞭解如何編寫您的 JSON MCP 配置",
 
@@ -22341,13 +22341,13 @@ I18N["zh-CN"]["repository/settings/copilot/coding_agent"] = {
     "Save MCP configuration": "儲存",
 
     "Use of Copilot coding agent is subject to the":
-      "使用 Copilot 程式設計智慧體需遵守",
+      "使用 Copilot 程式設計AI需遵守",
     "pre-release terms": "預發行條款",
   },
   regexp: [[/(\d+) rules?/, "$1 規則"]],
   title: {
     static: {
-      "Copilot coding agent": "Copilot 程式設計智慧體",
+      "Copilot coding agent": "Copilot 程式設計AI",
     },
   },
 };
@@ -23693,7 +23693,7 @@ I18N["zh-CN"]["homepage"] = {
       "探索 Universe '25 的最新工具",
     "The future of building happens together": "構建未來的方式是共同創造",
     "Tools and trends evolve, but collaboration endures. With GitHub, developers, agents, and code come together on one platform.":
-      "工具與趨勢不斷演變，但協作永恆。有 GitHub在，開發者、智慧體與程式碼在同一個平臺匯聚。",
+      "工具與趨勢不斷演變，但協作永恆。有 GitHub在，開發者、AI與程式碼在同一個平臺匯聚。",
 
     //"Email address": "電子郵箱地址",
     "Enter your email": "鍵入郵箱地址",
@@ -23714,7 +23714,7 @@ I18N["zh-CN"]["homepage"] = {
       "藉助跟蹤工作、視覺化路線圖、收集洞察的工具，讓團隊從創意到上線全程對齊。",
     Collaborate: "協作",
     "Enable your team to collaborate with agents to plan, code, and test the next big thing.":
-      "讓團隊與智慧體協作，一起規劃、編寫和測試下一個大專案。",
+      "讓團隊與AI協作，一起規劃、編寫和測試下一個大專案。",
     Automate: "自動化",
     "Improve your software development process by automating builds, tests, and deployments with CI/CD.":
       "透過 CI/CD 自動化構建、測試和部署，提升整個軟體開發流程。",
@@ -27014,7 +27014,7 @@ I18N["zh-CN"]["marketplace"] = {
     // 類別
     "No category": "無類別",
     "Has category": "包含類別",
-    agents: "智慧體",
+    agents: "AI",
     coding: "編碼",
     conversation: "對話",
     instruction: "指令",
@@ -27084,7 +27084,7 @@ I18N["zh-CN"]["marketplace"] = {
     Embeddings: "嵌入",
     "Tag:": "標籤",
     "Category:": "型別：",
-    Agents: "智慧體",
+    Agents: "AI",
     Conversation: "對話",
     "Large context": "大模型",
     "Low latency": "低延遲",
@@ -31711,7 +31711,7 @@ I18N["zh-CN"]["github-copilot/pro"] = {
     "Try Copilot Pro for 30 days free": "免費試用 Copilot Pro 30 天",
 
     "Everything in Copilot Free and:": "Copilot 免費版的所有功能以及：",
-    "Unlimited agent mode and chat with GPT-4.1": "無限智慧體 GPT-4.1 暢聊",
+    "Unlimited agent mode and chat with GPT-4.1": "無限AI GPT-4.1 暢聊",
     "Unlimited code completions": "無限程式碼補全",
     "Access to Anthropic Claude Sonnet 4, GPT-5, Gemini 2.5 Pro, and more":
       "可訪問 Anthropic Claude Sonnet 4、GPT-5、Gemini 2.5 Pro 等模型",
@@ -32901,9 +32901,9 @@ I18N["zh-CN"]["copilot"] = {
     Collapse: "摺疊",
     "Expand sidebar": "展開側邊欄",
 
-    "Agent sessions": "智慧體任務",
-    "Agent sessions and chats": "智慧體任務及聊天",
-    "No agents running": "無智慧體執行",
+    "Agent sessions": "AI任務",
+    "Agent sessions and chats": "AI任務及聊天",
+    "No agents running": "無AI執行",
     "You can now ask Copilot to work on a task for you in the background, creating a pull request which you can review.":
       "您現在可以讓 Copilot 在後臺為您處理任務，建立一個供您稽核的拉取請求。",
 
@@ -32937,7 +32937,7 @@ I18N["zh-CN"]["copilot"] = {
     "uses AI. Check for mistakes.": "使用 AI。請檢查錯誤。",
     "Get file": "獲取檔案",
 
-    "Recent agent sessions": "最近智慧體任務",
+    "Recent agent sessions": "最近AI任務",
     "View all": "檢視全部",
     "No sessions found. Create one by sending a prompt above.":
       "未找到會話。請透過在上方傳送提示來建立一個會話。",
@@ -33276,16 +33276,16 @@ I18N["zh-CN"]["copilot"] = {
 
     "View all attachments": "檢視所有附件",
 
-    // 智慧體 https://github.com/copilot/agents
+    // AI https://github.com/copilot/agents
     "Copilot coding agent now uses fewer premium requests!":
-      "Copilot 程式設計智慧體現在使用更少的高階請求！",
+      "Copilot 程式設計AI現在使用更少的高階請求！",
     "From now on, each session uses just one premium request.":
       "從現在起，每個會話只會使用一次高階請求。",
 
-    Agents: "智慧體",
+    Agents: "AI",
 
     "Delegate tasks to GitHub Copilot coding agent":
-      "將任務委派給 GitHub Copilot 程式設計智慧體",
+      "將任務委派給 GitHub Copilot 程式設計AI",
     "Let Copilot work independently in the background to complete tasks, and then monitor Copilot's progress.":
       "讓 Copilot 在後臺獨立工作，完成任務後，您可以監控 Copilot 的進展。",
     "This feature is not available on your current plan.":
@@ -33293,9 +33293,9 @@ I18N["zh-CN"]["copilot"] = {
 
     "Let Copilot tackle your TODOs": "讓 Copilot 處理您的待辦",
     "Delegate tasks to GitHub Copilot coding agent to work on in the background, and then monitor Copilot's progress.":
-      "將任務委派給 GitHub Copilot 程式設計智慧體在後臺處理，然後監控 Copilot 的進展。",
+      "將任務委派給 GitHub Copilot 程式設計AI在後臺處理，然後監控 Copilot 的進展。",
     "Learn more about Copilot coding agent":
-      "瞭解更多關於 Copilot 程式設計智慧體的資訊",
+      "瞭解更多關於 Copilot 程式設計AI的資訊",
 
     // 倉庫選擇
     "Select an item": "選擇一項",
@@ -33304,10 +33304,10 @@ I18N["zh-CN"]["copilot"] = {
     "Find a branch...": "查詢分支...",
     default: "預設",
 
-    // 自定義智慧體
-    "This repository has no custom agents": "此倉庫沒有自定義智慧體",
+    // 自定義AI
+    "This repository has no custom agents": "此倉庫沒有自定義AI",
     "Custom agents are reusable instructions and tools in your repository.":
-      "自定義智慧體是您倉庫中的可複用指令和工具。",
+      "自定義AI是您倉庫中的可複用指令和工具。",
     "Create a custom agent": "建立",
 
     Auto: "自動",
@@ -33384,7 +33384,7 @@ I18N["zh-CN"]["copilot"] = {
     "Due to the large number of changes in this pull request, only one file is being shown at a time.":
       "由於此拉取請求中更改的檔案數量較多，因此僅顯示一個檔案。",
 
-    // 智慧體總結頁
+    // AI總結頁
     session: "任務",
     sessions: "任務",
 
@@ -33430,7 +33430,7 @@ I18N["zh-CN"]["copilot"] = {
     ],
     // 空間
     [/Total percent used: (\d+\%)/, "總使用率：$1"],
-    // 智慧體
+    // AI
     [/(\d+) revisions?/, "$1 次修訂"],
     [/No extension \((\d+)\)/, "無副檔名($1)"],
     [/Expand all lines: (.+)/, "展開所有行：$1"],
@@ -33438,7 +33438,7 @@ I18N["zh-CN"]["copilot"] = {
   ],
   title: {
     static: {
-      "Agents · GitHub Copilot": "智慧體 · GitHub Copilot",
+      "Agents · GitHub Copilot": "AI · GitHub Copilot",
       "New chat · GitHub Copilot": "新聊天 · GitHub Copilot",
       "Spaces · GitHub Copilot": "空間 · GitHub Copilot",
     },
