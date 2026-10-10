@@ -134,10 +134,11 @@ I18N.conf = {
       ".mb-1.d-inline-block > h3", // 倉庫名稱
     ],
     repository: [
+      'p[class*="SidebarAbout-module_"]', // 新版首頁簡介正文
       ".AppHeader-context-full", // 頂部 <username>/<repo_name>
       'strong[itemprop="name"]', // 倉庫名稱
       // 'ul.list-style-none', // 右側 部署列表 無效
-      'div[data-testid="latest-commit"]', // 最新的提交
+      '[data-testid="latest-commit-html"]', // 提交訊息正文；保留周邊介面翻譯
       "tr.react-directory-row", // 檔案列表中資料夾和檔案條目
       "p.f4.my-3", // 倉庫簡介正文
       "#translate-me",
@@ -564,6 +565,19 @@ I18N["zh-CN"]["title"] = {
 I18N["zh-CN"]["public"] = {
   // 公共區域翻譯
   static: {
+    // 2026-10-10：新版首頁及議題介面；僅適用此頁面的介面文字。
+    "Security and quality": "安全性與品質",
+    "Repository navigation": "倉庫導覽",
+    "Switch repository": "切換倉庫",
+    "Switch repository (alt shift r)": "切換倉庫（alt shift r）",
+    "Open quick search dialog, type / to search": "開啟快速搜尋視窗，輸入 / 搜尋",
+    "All issues": "所有議題",
+    "All pull requests": "所有拉取請求",
+    "Footer": "頁尾",
+    "Footer navigation": "頁尾導覽",
+    "GitHub Homepage": "GitHub 首頁",
+    "Global navigation menu": "全站導覽選單",
+
     // 靜態翻譯
     // 錯誤頁面
     "Find code, projects, and people on GitHub:":
@@ -10453,6 +10467,12 @@ I18N["zh-CN"]["orgs/repositories/new"] = I18N["zh-CN"]["page-new-repo"];
 I18N["zh-CN"]["repository"] = {
   // 倉庫頁面 /<user-name>/<repo-name>/
   static: {
+    // 2026-10-10：新版首頁及議題介面；僅適用此頁面的介面文字。
+    "Folders and files": "資料夾與檔案",
+    "Latest commit": "最新提交",
+    "Repository files navigation": "倉庫檔案導覽",
+    "Repository files": "倉庫檔案",
+
     // 靜態翻譯
     ...I18N["zh-CN"]["repository-public"]["static"],
 
@@ -11678,6 +11698,29 @@ I18N["zh-CN"]["repository/pull_issue_public"] = {
 I18N["zh-CN"]["repository/issues"] = {
   // 倉庫 - 議題頁面
   static: {
+    // 2026-10-10：新版首頁及議題介面；僅適用此頁面的介面文字。
+    "Assigned to me": "指派給我",
+    "Created by me": "由我建立",
+    "Mentioned": "提及我的議題",
+    "Recent activity": "最近活動",
+    "Views": "檢視",
+    "Pages": "頁面",
+    "Issue filters": "議題篩選",
+    "Issues sidebar navigation": "議題側邊欄導覽",
+    "Collapse sidebar": "收合側邊欄",
+    "Expand sidebar": "展開側邊欄",
+    "Feedback": "意見回饋",
+    "Comfortable display density": "寬鬆檢視",
+    "Compact display density": "緊湊檢視",
+    "Issues display density": "議題顯示密度",
+    "Issue list controls": "議題列表控制項",
+    "Filter issues by state": "依狀態篩選議題",
+    "Filter by labels": "依標籤篩選",
+    "Filter by projects": "依專案篩選",
+    "Filter by milestones": "依里程碑篩選",
+    "Sort by Newest descending": "依最新項目排序（遞減）",
+    "Try a different search query.": "請嘗試其他搜尋條件。",
+
     // 靜態翻譯
     ...I18N["zh-CN"]["repository-public"]["static"],
     ...I18N["zh-CN"]["repository/pull_issue_public"]["static"],
