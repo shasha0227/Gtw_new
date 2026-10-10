@@ -570,10 +570,11 @@ I18N["zh-CN"]["public"] = {
     "Repository navigation": "倉庫導覽",
     "Switch repository": "切換倉庫",
     "Switch repository (alt shift r)": "切換倉庫（alt shift r）",
-    "Open quick search dialog, type / to search": "開啟快速搜尋視窗，輸入 / 搜尋",
+    "Open quick search dialog, type / to search":
+      "開啟快速搜尋視窗，輸入 / 搜尋",
     "All issues": "所有議題",
     "All pull requests": "所有拉取請求",
-    "Footer": "頁尾",
+    Footer: "頁尾",
     "Footer navigation": "頁尾導覽",
     "GitHub Homepage": "GitHub 首頁",
     "Global navigation menu": "全站導覽選單",
@@ -2765,7 +2766,8 @@ I18N["zh-CN"]["page-profile-public"] = {
     "Add a bio": "添加個人簡介",
     "You can": "您可",
     "@mention": "@使用者名稱或組織名",
-    "other users and organizations to link to them.": "連結到其他使用者和組織。",
+    "other users and organizations to link to them.":
+      "連結到其他使用者和組織。",
     Pronouns: "代詞",
     "Don't specify": "不說明",
     "they/them": "他們",
@@ -4239,7 +4241,8 @@ I18N["zh-CN"]["settings/profile"] = {
     "Tell us a little bit about yourself": "自我介紹一下您自己的相關資訊",
     "You can": "您可以",
     "@mention": "@使用者名稱或組織名",
-    "other users and organizations to link to them.": "連結到其他使用者和組織。",
+    "other users and organizations to link to them.":
+      "連結到其他使用者和組織。",
     URL: "網站",
     "Social accounts": "社交賬戶",
     "Link to social profile 1": "連結到社交賬戶",
@@ -4381,7 +4384,8 @@ I18N["zh-CN"]["settings/admin"] = {
       "為您的倉庫設定重定向（ web 和 git 訪問）。",
     "Renaming may take a few minutes to complete.":
       "重新命名可能需要幾分鐘的時間來完成。",
-    "I understand, let’s change my username": "我明白了，依然更改我的使用者名稱",
+    "I understand, let’s change my username":
+      "我明白了，依然更改我的使用者名稱",
 
     "Enter a new username": "輸入新使用者名稱",
     "Choose a new username": "選擇新使用者名稱",
@@ -7006,7 +7010,8 @@ I18N["zh-CN"]["settings/codespaces"] = {
     "Codespaces can have GPG commit signing capabilities so that GitHub can verify that commits made in the codespace come from a trusted source. When enabled, this setting will be applied to your list of trusted repositories.":
       "程式碼空間可以具有 GPG 提交簽名功能，以便 GitHub 可以驗證程式碼空間中的提交是來自受信任的來源。啟用後，該設定將被應用到您的受信任倉庫列表中。",
     // "Enabled": "啟用",
-    "GPG signing will be available in Codespaces": "GPG 簽名將在程式碼空間中可用",
+    "GPG signing will be available in Codespaces":
+      "GPG 簽名將在程式碼空間中可用",
 
     "Settings Sync": "設定同步",
     "By enabling, your codespaces will be able to pull from VS Code Settings Sync service and push only for the trusted repositories you specify. Only enable this for repositories that you trust.":
@@ -8063,7 +8068,10 @@ I18N["zh-CN"]["settings/installations"] = {
       "最後一次使用是最近 $1 月之內 · 作者",
     ],
     [/Selected (\d+) repositor(y|ies)./, "選擇了 $1 個倉庫。"],
-    [/You're all set! (.*) has been uninstalled./, "一切就緒！$1 已被解除安裝。"],
+    [
+      /You're all set! (.*) has been uninstalled./,
+      "一切就緒！$1 已被解除安裝。",
+    ],
     [
       /You're all set! A job has been queued to uninstall the \'(.*)\' app./,
       "一切就緒！解除安裝 “$1” 應用的任務已排隊等候。",
@@ -8211,7 +8219,8 @@ I18N["zh-CN"]["settings/security-log"] = {
     "Country changed from your previous session":
       "國家或地區與上一次會話有所不同",
     "Logged in": "登入",
-    "User signed in from an unrecognized device.": "使用者從無法識別的裝置登入。",
+    "User signed in from an unrecognized device.":
+      "使用者從無法識別的裝置登入。",
     "User signed in from an unrecognized device and location.":
       "使用者從無法識別的裝置與位置登入。",
     "New Device Used": "使用新裝置",
@@ -8295,7 +8304,8 @@ I18N["zh-CN"]["settings/apps"] = {
 
     // GitHub 應用 https://github.com/settings/apps
     // 頂部提醒
-    "Job queued to revoke all user tokens": "撤銷所有使用者令牌的任務已排隊等待",
+    "Job queued to revoke all user tokens":
+      "撤銷所有使用者令牌的任務已排隊等待",
 
     "Register a new GitHub App": "註冊新的 GitHub 應用",
     "Want to build something that integrates with and extends GitHub?":
@@ -8378,7 +8388,8 @@ I18N["zh-CN"]["settings/apps"] = {
       "使用者許可權的授予是以單個使用者為基礎的，是一個環節",
     "User authorization flow": "使用者授權流程",
     "permissions documentation": "許可權文件",
-    "for information about specific permissions.": "以瞭解關於特定許可權的資訊。",
+    "for information about specific permissions.":
+      "以瞭解關於特定許可權的資訊。",
 
     "Access:": "訪問許可權：",
     "Select an access level": "選擇訪問級別",
@@ -8971,7 +8982,8 @@ I18N["zh-CN"]["settings/apps"] = {
     "be undone. This will permanently delete the": "撤銷。這將永久刪除",
     "GitHub App.": "GitHub 應用。",
 
-    "This will also uninstall the GitHub App from": "這還將解除安裝 GitHub 應用從",
+    "This will also uninstall the GitHub App from":
+      "這還將解除安裝 GitHub 應用從",
     // [/(\d+) accounts?/, "$1 個賬戶"],
 
     "Please type in the name of the GitHub App to confirm.":
@@ -9348,7 +9360,8 @@ I18N["zh-CN"]["settings/personal-access-tokens"] = {
     "Email addresses": "電子郵箱地址",
     "Manage a user's email addresses.": "管理使用者的電子郵箱地址。",
     // 活動
-    "View events triggered by a user's activity.": "檢視由使用者活動觸發的事件。",
+    "View events triggered by a user's activity.":
+      "檢視由使用者活動觸發的事件。",
     // 關注者
     "A user's followers": "使用者的關注者",
     "GPG keys": "GPG 金鑰",
@@ -9686,7 +9699,10 @@ I18N["zh-CN"]["settings/personal-access-tokens"] = {
     [/(.+) grants you/, "$1 授予您"],
     [/(\d+) account permissions?/, "$1 項賬戶許可權"],
     [/(\d+) permissions? for all repositories:/, "所有倉庫的 $1 項許可權"],
-    [/(\d+) permissions? for (\d+) repositori(y|es):/, "$1 個倉庫的 $2 項許可權"],
+    [
+      /(\d+) permissions? for (\d+) repositori(y|es):/,
+      "$1 個倉庫的 $2 項許可權",
+    ],
     [/(\d+) organization permissions?/, "$1 項組織許可權"],
   ],
   title: {
@@ -11701,15 +11717,15 @@ I18N["zh-CN"]["repository/issues"] = {
     // 2026-10-10：新版首頁及議題介面；僅適用此頁面的介面文字。
     "Assigned to me": "指派給我",
     "Created by me": "由我建立",
-    "Mentioned": "提及我的議題",
+    Mentioned: "提及我的議題",
     "Recent activity": "最近活動",
-    "Views": "檢視",
-    "Pages": "頁面",
+    Views: "檢視",
+    Pages: "頁面",
     "Issue filters": "議題篩選",
     "Issues sidebar navigation": "議題側邊欄導覽",
     "Collapse sidebar": "收合側邊欄",
     "Expand sidebar": "展開側邊欄",
-    "Feedback": "意見回饋",
+    Feedback: "意見回饋",
     "Comfortable display density": "寬鬆檢視",
     "Compact display density": "緊湊檢視",
     "Issues display density": "議題顯示密度",
@@ -13065,7 +13081,8 @@ I18N["zh-CN"]["repository/pull"] = {
     "Add your review": "新增您的評論",
     // [/At least (\d+) approving reviews? is required by reviewers with write access./, "具有寫入許可權的審查者至少需要 $1 次批准審查。"],
     "Code owner review required": "需要程式碼所有者稽核",
-    "was requested for review as a code owner": "要求以程式碼所有者身份進行審查",
+    "was requested for review as a code owner":
+      "要求以程式碼所有者身份進行審查",
     "Conversation resolution required": "需要解決對話",
     "A conversation must be resolved before this pull request can be merged.":
       "在合併此拉取請求前，必須先解決對話。",
@@ -14933,10 +14950,10 @@ I18N["zh-CN"]["repository/blob"] = {
     "Edit this file": "編輯本檔案",
     "More edit options": "更多編輯選項",
     "Edit file...": "編輯檔案…",
-    "In place": "就地編輯",
+    "In place": "編輯",
     "Edit the file in your fork of this project": "在您的復刻中編輯檔案",
     "Edit file": "編輯檔案",
-    "Edit in place": "就地編輯",
+    "Edit in place": "編輯",
     "Open with...": "開啟…",
     "You must be on a branch to make or propose changes to this file":
       "您必須在分支上才能對該檔案進行修改或提出修改建議",
@@ -15661,7 +15678,8 @@ I18N["zh-CN"]["repository/discussions"] = {
     // 標籤浮動文字
     "This user is a collaborator on this repository.":
       "該使用者是此倉庫的協作者。",
-    "This user is a maintainer on this repository.": "該使用者是此倉庫的維護者。",
+    "This user is a maintainer on this repository.":
+      "該使用者是此倉庫的維護者。",
     "This user is the author of this discussion.": "該使用者是此討論的作者。",
 
     // 開始討論按鈕上方小字
@@ -17827,8 +17845,10 @@ I18N["zh-CN"]["repository/packages"] = {
     "Actions repository access": "操作倉庫訪問",
     "Pick the repositories that can access this package using GitHub Actions.":
       "選擇可以使用 GitHub Actions 訪問此軟體包的倉庫。",
-    "Permissions added for selected repositories.": "為選定的倉庫添加了許可權。",
-    "Permissions updated for selected repositories.": "更新了選定倉庫的許可權。",
+    "Permissions added for selected repositories.":
+      "為選定的倉庫添加了許可權。",
+    "Permissions updated for selected repositories.":
+      "更新了選定倉庫的許可權。",
     "Can upload and download this package. Can read and write package metadata.":
       "可以上傳和下載此軟體包，並且可以讀取和寫入後設資料。",
     "Can download this package and read package metadata.":
@@ -18123,7 +18143,8 @@ I18N["zh-CN"]["repository/security"] = {
       "當您的一個依賴項存在漏洞時得到通知",
     "Enable Dependabot alerts": "啟用 Dependabot 警報",
     "View Dependabot alerts": "檢視 Dependabot 警報",
-    "You don't have permissito enable this feature": "您沒有啟用此功能的許可權。",
+    "You don't have permissito enable this feature":
+      "您沒有啟用此功能的許可權。",
 
     "Code scanning alerts •": "程式碼掃描警報 •",
     "Automatically detect common vulnerability and coding errors":
@@ -20550,7 +20571,8 @@ I18N["zh-CN"]["repository/settings/access"] = {
     "Add people": "新增他人",
     // 邀請對話方塊
     "Add people to": "新增成員到",
-    "Search by username, full name, or email": "搜尋使用者名稱、全名、或電子郵箱",
+    "Search by username, full name, or email":
+      "搜尋使用者名稱、全名、或電子郵箱",
     "Find people": "查詢",
     "Invite collaborator": "邀請協作者",
     "Add to repository": "新增到倉庫",
@@ -22288,7 +22310,8 @@ I18N["zh-CN"]["repository/settings/copilot/code_review"] = {
     "Learn how to set up rulesets.": "瞭解如何設定規則集。",
 
     "Go to rulesets": "前往規則集",
-    "No rulesets set up for automated reviews": "尚無設定自動程式碼審查的規則集",
+    "No rulesets set up for automated reviews":
+      "尚無設定自動程式碼審查的規則集",
     "Create a ruleset to automate code reviews for pull requests targeting your default branch":
       "建立一個規則集，自動程式碼審查針對您的預設分支的拉取請求",
     "Create ruleset for default branch": "建立針對預設分支的規則集",
@@ -22688,7 +22711,8 @@ I18N["zh-CN"]["repository/settings/codespaces"] = {
     "Failure notifications": "失敗通知",
     "You can specify users or teams to be notified via e-mail when prebuilds for this particular configuration fail.":
       "您可以指定使用者或團隊，當這個特定配置的預構建失敗時，透過電子郵件通知他們。",
-    "Add by username, full name, or team name": "按使用者名稱、全名或團隊名稱新增",
+    "Add by username, full name, or team name":
+      "按使用者名稱、全名或團隊名稱新增",
     "You haven't added anyone yet": "尚未新增任何人",
     "Add members to receive email notifications when prebuilds fail for this configuration":
       "新增成員，以便在此配置的預構建失敗時接收電子郵件通知",
@@ -23014,7 +23038,8 @@ I18N["zh-CN"]["repository/settings/security_analysis"] = {
 
     Tools: "工具",
     "CodeQL analysis": "CodeQL 分析",
-    "Identify vulnerabilities and errors with": "識別程式碼中的漏洞和錯誤，透過",
+    "Identify vulnerabilities and errors with":
+      "識別程式碼中的漏洞和錯誤，透過",
     for: "為",
     eligible: "符合條件的",
     "repositories.": "倉庫。",
@@ -27087,7 +27112,8 @@ I18N["zh-CN"]["marketplace"] = {
       "嘗試、測試和部署各種型號、尺寸和專業化產品。",
 
     // 未登入 或 https://github.com/marketplace?type=
-    "Discover apps with Copilot extensions": "使用 Copilot 擴充套件程式探索應用",
+    "Discover apps with Copilot extensions":
+      "使用 Copilot 擴充套件程式探索應用",
     "Your favorite tools now work with GitHub Copilot.":
       "您最喜歡的工具現在可與 GitHub Copilot 配合使用。",
 
@@ -28146,7 +28172,8 @@ I18N["zh-CN"]["orgs"] = {
     "Try automatically assigning work with GitHub Actions.":
       "嘗試使用 GitHub Actions 自動分配工作。",
     "Run a continuous integration test": "執行持續整合測試",
-    "Validate your code using a CI workflow.": "使用 CI 工作流程驗證您的程式碼。",
+    "Validate your code using a CI workflow.":
+      "使用 CI 工作流程驗證您的程式碼。",
     "Discover new GitHub features": "發現 GitHub 的新功能",
     "See all features": "檢視所有功能",
     "Client apps": "客戶端應用",
@@ -28455,7 +28482,8 @@ I18N["zh-CN"]["orgs/teams"] = {
 
     // 子團隊成員 https://github.com/orgs/<orgs-name>/teams/team/members
     Invite: "邀請",
-    "Search by username, full name, or email address": "搜尋使用者名稱，全名或郵件",
+    "Search by username, full name, or email address":
+      "搜尋使用者名稱，全名或郵件",
 
     Invitations: "邀請",
     Requests: "請求",
@@ -28805,7 +28833,8 @@ I18N["zh-CN"]["orgs/settings/profile"] = {
     "Deleting the": "刪除",
     "organization will delete all of its repositories. The":
       "組織，將會刪除其所有倉庫。",
-    "username will be unavailable for 90 days.": "使用者名稱將在 90 天內不可用。",
+    "username will be unavailable for 90 days.":
+      "使用者名稱將在 90 天內不可用。",
     "Before proceeding, please be sure to review the": "在繼續之前，請務必檢視",
     "regarding account deletion.": "關於賬戶刪除。",
     "Enter this organization’s name to confirm": "請輸入組織的名稱，進行確認",
@@ -28905,7 +28934,8 @@ I18N["zh-CN"]["orgs/settings/member_privileges"] = {
     "Members will only be able to clone and pull public repositories. To give a member additional access, you’ll need to add them to teams or make them collaborators on individual repositories.":
       "成員只能克隆和拉取公共倉庫。要為成員提供額外的訪問許可權，您需要將他們新增到團隊中，或者讓他們成為單個倉庫的協作者。",
     // 對話方塊
-    'Change base permission to "No permission"': "將基本許可權更改為 “無許可權”",
+    'Change base permission to "No permission"':
+      "將基本許可權更改為 “無許可權”",
     "You are about to change the base repository permission for this organization.":
       "您即將更改此組織倉庫的基本許可權。",
     // [/This may change the permission that the organization’s (\d+) members? has on its (\d+) repositories?./, "這可能會更改組織的 $1 個成員對其 $2 個倉庫的許可權。"],
@@ -29965,7 +29995,8 @@ I18N["zh-CN"]["orgs/settings/security_analysis"] = {
     // [/You're about to disable grouped security updates on all repositories in ([^ ]+)./, "您即將停用 $1 組織中的所有倉庫上的分組安全更新。"],
 
     "Code scanning": "程式碼掃描",
-    "Identify vulnerabilities and errors with": "識別程式碼中的漏洞和錯誤，透過",
+    "Identify vulnerabilities and errors with":
+      "識別程式碼中的漏洞和錯誤，透過",
     ". Default CodeQL analysis will be set up on":
       "。預設的 CodeQL 分析將被設定為",
     eligible: "符合條件的",
@@ -30398,7 +30429,8 @@ I18N["zh-CN"]["orgs/settings/secrets"] = {
     "Development environment secrets are environment variables that are":
       "開發環境機密是環境變數",
     encrypted: "被加密",
-    ". They are available to any codespace user with": "。任何程式碼空間使用者具有",
+    ". They are available to any codespace user with":
+      "。任何程式碼空間使用者具有",
     collaborator: "協作者",
     "access to the repositories with access to that secret.":
       "許可權訪問該機密的倉庫。",
